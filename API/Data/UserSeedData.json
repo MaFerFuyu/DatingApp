@@ -108,7 +108,7 @@
       "Country": "Mexico",
       "Photos": [
         {
-          "url": "https://randomuser.me/api/portraits/male/19.jpg",
+          "url": "https://randomuser.me/api/portraits/men/19.jpg",
           "isMain": true
         }
       ]
@@ -127,7 +127,7 @@
       "Country": "Mozambique",
       "Photos": [
         {
-          "url": "https://randomuser.me/api/portraits/male/96.jpg",
+          "url": "https://randomuser.me/api/portraits/men/96.jpg",
           "isMain": true
         }
       ]
@@ -146,7 +146,7 @@
       "Country": "Samoa",
       "Photos": [
         {
-          "url": "https://randomuser.me/api/portraits/male/76.jpg",
+          "url": "https://randomuser.me/api/portraits/men/76.jpg",
           "isMain": true
         }
       ]
@@ -165,7 +165,7 @@
       "Country": "Philippines",
       "Photos": [
         {
-          "url": "https://randomuser.me/api/portraits/male/52.jpg",
+          "url": "https://randomuser.me/api/portraits/men/52.jpg",
           "isMain": true
         }
       ]
@@ -184,7 +184,7 @@
       "Country": "Argentina",
       "Photos": [
         {
-          "url": "https://randomuser.me/api/portraits/male/50.jpg",
+          "url": "https://randomuser.me/api/portraits/men/50.jpg",
           "isMain": true
         }
       ]
